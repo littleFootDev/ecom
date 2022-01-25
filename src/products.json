@@ -1,0 +1,17 @@
+[
+    {
+        "name": "épée",
+        "price": 10,
+        "image" : "http://image.png"
+    },
+    {
+        "name": "épée",
+        "price": 10,
+        "image" : "http://image.png"
+    },
+    {
+        "name": "épée",
+        "price": 10,
+        "image" : "http://image.png"
+    }
+]
